@@ -231,6 +231,10 @@ body {
         font-size: 18px;
     }
 
+    .cover-container {
+        padding: 0;
+    }
+
     .feature-container {
         flex-direction: column;
         gap: 40px;
